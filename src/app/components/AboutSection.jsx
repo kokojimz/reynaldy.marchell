@@ -45,14 +45,13 @@ const TAB_DATA = [
         </li>
         <p>Bachelor Degree in Computer Science, 3.59/4.00</p> <br />
         <li>
-          {" "}
           <Link
             className="text-blue-400 hover:underline"
             target="_blank"
             href="https://eng.cycu.edu.tw/"
           >
-            Chung Yuan Christian University
-          </Link>{" "}
+            Chung Yuan Christian University 
+          </Link>
           • <i>Taiwan</i> | Feb 2023 - Jun 2023
         </li>
         <p>
@@ -68,8 +67,69 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="pl-2 list-disc">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://www.sololearn.com/en/certificates/CT-NYHYBNHC"
+          >
+            Sololearn : C Programming Course
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://www.sololearn.com/en/certificates/CC-DPBCTLHZ"
+          >
+            Sololearn : Introduction to SQL
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://progate.com/course_certificate/83befb7es0elna"
+          >
+            Progate : Git Course
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://drive.google.com/file/d/1aBbRzqWzZcbsl-50Ix5vHuSM8vplSXPY/view"
+          >
+            D-Link Certified Network Design Associate (DCNA)
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://progate.com/course_certificate/d4ab9ab5s0cwhx"
+          >
+            Progate : UNIX Command Line
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://www.dicoding.com/certificates/6RPNW21W9P2M"
+          >
+            Dicoding Indonesia : Belajar Dasar Pemrograman JavaScript
+          </Link>
+        </li>
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://icpc.global/ICPCID/E9A8MA4UEVSC"
+          >
+            (ICPCID) International Collegiate Programming Contest
+          </Link>
+        </li>
       </ul>
     ),
   },

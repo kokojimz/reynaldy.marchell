@@ -31,7 +31,7 @@ const Footer = () => {
           className="font-bold text-white underline-offset-2 hover:underline"
           href="mailto:reynalldymarchell03@gmail.com"
         >
-          reynalldymarchell03@gmail.com
+          with me
         </Link>
       </div>
     </footer>

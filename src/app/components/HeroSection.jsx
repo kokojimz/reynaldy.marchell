@@ -49,7 +49,7 @@ const HeroSection = () => {
           <h2 className="mb-4 text-2xl font-extrabold text-gray-300 sm:text-3xl lg:text-6xl lg:leading-normal">
             Reynaldy Marchell Bagas Adji
           </h2>
-          <div className="flex gap-2 font-light text-gray-300 underline-offset-2">
+          <div className="flex gap-2 mb-2 font-light text-gray-300 underline-offset-2">
             <Link
               target="_blank"
               href="https://github.com/kokojimz"
@@ -63,7 +63,10 @@ const HeroSection = () => {
               />
               GitHub
             </Link>
-            <p className="no-underline">•</p>
+            <div className="relative flex items-center justify-center w-5 h-5 mx-1">
+              <div className="absolute w-1/2 bg-white rounded-full h-1/2 animate-ping" />
+              <div className="absolute w-1/2 bg-white rounded-full h-1/2" />
+            </div>
             <Link
               target="_blank"
               href="https://www.linkedin.com/in/reynaldy-marchell/"
@@ -80,7 +83,7 @@ const HeroSection = () => {
           </div>
           <div>
             <Link
-              href="/"
+              href="/Resume.pdf"
               className="inline-block w-full px-1 py-1 mt-3 text-white rounded-full sm:w-fit bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
