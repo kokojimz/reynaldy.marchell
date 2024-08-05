@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "SiPeta",
-    description: "Authentication and CRUD operations",
+    description: "Sipeta is an Android application designed to assist users in navigating and exploring maps. With simple features, Sipeta allows users to discover locations, and change map type according to their preferences.",
     image: "/images/projects/SiPeta.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/kokojimz/SiPeta",
@@ -89,7 +89,7 @@ const projectsData = [
   {
     id: 10,
     title: "FlyTheDragon",
-    description: "Control your dragon in Augmented Reality.",
+    description: "Simple Augmented Reality (AR) game that displays a red dragon in 3D after scanning an image of the dragon. The dragon comes with realistic breathing sounds and can be controlled by the user through a virtual joystick.",
     image: "/images/projects/FlyTheDragon.png",
     tag: ["All", "Mobile","AR/VR"],
     gitUrl: "https://github.com/kokojimz/FlyTheDragon",
