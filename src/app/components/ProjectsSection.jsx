@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "SiPeta",
-    description: "Sipeta is an Android application designed to assist users in navigating and exploring maps. With simple features, Sipeta allows users to discover locations, and change map type according to their preferences.",
+    description: "Sipeta is an Android application designed to assist users in navigating and exploring maps.",
     image: "/images/projects/SiPeta.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/kokojimz/SiPeta",
@@ -89,7 +89,7 @@ const projectsData = [
   {
     id: 10,
     title: "FlyTheDragon",
-    description: "Simple Augmented Reality (AR) game that displays a red dragon in 3D after scanning an image of the dragon. The dragon comes with realistic breathing sounds and can be controlled by the user through a virtual joystick.",
+    description: "Simple Augmented Reality (AR) game that displays a red dragon in 3D after scanning an image of the dragon.",
     image: "/images/projects/FlyTheDragon.png",
     tag: ["All", "Mobile","AR/VR"],
     gitUrl: "https://github.com/kokojimz/FlyTheDragon",
@@ -127,19 +127,19 @@ const ProjectsSection = () => {
           isSelected={tag === "All"}
         />
         <ProjectTag
-            onClick={handleTagChange}
-            name="Mobile"
-            isSelected={tag === "Mobile"}
+          onClick={handleTagChange}
+          name="IoT"
+          isSelected={tag === "IoT"}
+        />
+        <ProjectTag
+          onClick={handleTagChange}
+          name="Mobile"
+          isSelected={tag === "Mobile"}
         />
         <ProjectTag
           onClick={handleTagChange}
           name="Web"
           isSelected={tag === "Web"}
-        />
-        <ProjectTag
-          onClick={handleTagChange}
-          name="IoT"
-          isSelected={tag === "IoT"}
         />
         <ProjectTag
           onClick={handleTagChange}
@@ -149,7 +149,7 @@ const ProjectsSection = () => {
         <ProjectTag
           onClick={handleTagChange}
           name="AI/ML"
-          isSelected={tag === "AR/VR"}
+          isSelected={tag === "AI/ML"}
         />
       </div>
       <ul ref={ref} className="grid gap-8 md:grid-cols-3 md:gap-12">
