@@ -63,10 +63,7 @@ const HeroSection = () => {
               />
               GitHub
             </Link>
-            <div className="relative flex items-center justify-center w-5 h-5 mx-1">
-              <div className="absolute w-1/2 bg-white rounded-full h-1/2 animate-ping" />
-              <div className="absolute w-1/2 bg-white rounded-full h-1/2" />
-            </div>
+            <p className="no-underline">•</p>
             <Link
               target="_blank"
               href="https://www.linkedin.com/in/reynaldy-marchell/"
