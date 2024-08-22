@@ -159,7 +159,7 @@ const AboutSection = () => {
         <div className="flex flex-col h-full mt-4 text-left md:mt-0">
           <h2 className="mb-4 text-4xl font-bold text-green-400">About Me</h2>
           <p className="text-base lg:text-lg">
-            A third-year Computer Science student specializing in Internet of
+            A 5th-semester Computer Science student specializing in Internet of
             Things and full-stack web development. With experience in both
             front-end and back-end technologies, I enjoy building practical and
             user-friendly applications. I'm always eager to learn new things and
