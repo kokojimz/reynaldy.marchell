@@ -81,7 +81,7 @@ const HeroSection = () => {
           <div>
             <Link
               target="_blank"
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1H2EcQKJNI5WSOvukCmudMhpLnM6a2A5h/view?usp=sharing"
               className="inline-block w-full px-1 py-1 mt-3 text-white rounded-full sm:w-fit bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

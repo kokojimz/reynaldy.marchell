@@ -43,7 +43,20 @@ const TAB_DATA = [
           </Link>
           • <i>Indonesia</i> | Jun 2022 - Jul 2026 (Expected)
         </li>
-        <p>Bachelor Degree in Computer Science, 3.59/4.00</p> <br />
+        <p>Bachelor Degree in Computer Science, 3.64/4.00</p> <br />
+        <li>
+          <Link
+            className="text-blue-400 hover:underline"
+            target="_blank"
+            href="https://english.wsu.ac.kr/main/index.jsp"
+          >
+            Woosong University
+          </Link>
+          • <i>Daejeon, South Korea</i> | Agu 2024 - Des 2024
+        </li>
+        <p>
+        Participant of AIMS Exchange Student at Endicott College of International Studies - AI and Big Data
+        </p> <br />
         <li>
           <Link
             className="text-blue-400 hover:underline"
