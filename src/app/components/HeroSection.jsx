@@ -38,6 +38,22 @@ const HeroSection = () => {
                   2000,
                   "Halo",
                   2000,
+                  "привет",
+                  2000,
+                  "Bonjour",
+                  2000,
+                  "Olá",
+                  2000,
+                  "Салам",
+                  2000,
+                  "မင်္ဂလာပါ",
+                  2000,
+                  "Salve",
+                  2000,
+                  "Ciao",
+                  2000,
+                  "مرحبًا",
+                  2000,
                 ]}
                 wrapper="span"
                 speed={50}
@@ -81,7 +97,7 @@ const HeroSection = () => {
           <div>
             <Link
               target="_blank"
-              href="https://drive.google.com/file/d/1H2EcQKJNI5WSOvukCmudMhpLnM6a2A5h/view?usp=sharing"
+              href="https://drive.google.com/file/d/1AKxG3sVFktLdlOZQHtOFCDgn2avsVAji/view?usp=sharing"
               className="inline-block w-full px-1 py-1 mt-3 text-white rounded-full sm:w-fit bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

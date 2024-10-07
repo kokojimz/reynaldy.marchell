@@ -43,7 +43,7 @@ const TAB_DATA = [
           </Link>
           • <i>Indonesia</i> | Jun 2022 - Jul 2026 (Expected)
         </li>
-        <p>Bachelor Degree in Computer Science, 3.64/4.00</p> <br />
+        <p>Bachelor Degree in Computer Science, 3.65/4.00</p> <br />
         <li>
           <Link
             className="text-blue-400 hover:underline"
@@ -163,7 +163,7 @@ const AboutSection = () => {
       <div className="items-center gap-8 px-4 py-8 md:grid md:grid-cols-2 xl:gap-16 sm:py-16 xl:px-16">
         <a href="https://open.spotify.com/user/v16fporu9wzoeehgyxvahedxh">
           <img
-            src="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedxh&count=5"
+            src="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedxh"
             alt="Spotify recently played"
             width={500}
             height={500}
