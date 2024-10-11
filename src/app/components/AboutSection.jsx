@@ -161,7 +161,7 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="items-center gap-8 px-4 py-8 md:grid md:grid-cols-2 xl:gap-16 sm:py-16 xl:px-16">
-        <a href="https://open.spotify.com/user/v16fporu9wzoeehgyxvahedxh">
+        <a href="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedx">
           <img
             src="https://spotify-recently-played-readme.vercel.app/api?user=v16fporu9wzoeehgyxvahedxh"
             alt="Spotify recently played"
