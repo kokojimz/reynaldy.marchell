@@ -43,7 +43,7 @@ const TAB_DATA = [
           </Link>
           • <i>Indonesia</i> | Jun 2022 - Jul 2026 (Expected)
         </li>
-        <p>Bachelor Degree in Computer Science, 3.65/4.00</p> <br />
+        <p>Bachelor Degree in Computer Science, 3.66/4.00</p> <br />
         <li>
           <Link
             className="text-blue-400 hover:underline"
@@ -55,7 +55,7 @@ const TAB_DATA = [
           • <i>Daejeon, South Korea</i> | Agu 2024 - Des 2024
         </li>
         <p>
-        Participant of AIMS Exchange Student at Endicott College of International Studies - AI and Big Data
+        Participant of AIMS Exchange Student at Endicott College of International Studies - AI and Big Data, 3.70/4.50
         </p> <br />
         <li>
           <Link
@@ -172,7 +172,7 @@ const AboutSection = () => {
         <div className="flex flex-col h-full mt-4 text-left md:mt-0">
           <h2 className="mb-4 text-4xl font-bold text-green-400">About Me</h2>
           <p className="text-base lg:text-lg">
-            A 5th-semester Computer Science student specializing in Internet of
+            A 6th-semester Computer Science student specializing in Internet of
             Things and full-stack web development. With experience in both
             front-end and back-end technologies, I enjoy building practical and
             user-friendly applications. I'm always eager to learn new things and
