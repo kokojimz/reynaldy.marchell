@@ -43,7 +43,7 @@ const TAB_DATA = [
           </Link>
           • <i>Indonesia</i> | Jun 2022 - Jul 2026 (Expected)
         </li>
-        <p>Bachelor Degree in Computer Science, 3.66/4.00</p> <br />
+        <p>Bachelor Degree in Computer Science, 3.72/4.00</p> <br />
         <li>
           <Link
             className="text-blue-400 hover:underline"
